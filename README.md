@@ -37,15 +37,13 @@ This portfolio showcases my skills, education, projects, and contact information
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Skills Section
 
-![Skills](screenshots/skills.png)
+![Skills](skills.png)
 
-### Contact Section
 
-![Contact](screenshots/contact.png)
 
 ## 📂 Featured Projects
 
