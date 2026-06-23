@@ -67,6 +67,6 @@ Seeking an entry-level Software Engineer / Full Stack Developer opportunity wher
 
 **Email:** madhavanmohan2210@gmail.com
 
-**LinkedIn:** [Add LinkedIn Link]
+**LinkedIn:** [www.linkedin.com/in/madhavan-m-24770b2a8]
 
 **GitHub:** https://github.com/madhavcode07
